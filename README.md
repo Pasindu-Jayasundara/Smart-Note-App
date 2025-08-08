@@ -22,11 +22,11 @@ A modern note-taking app that allows users to create, organize, and manage notes
 - **Styling**: Tailwind CSS, Bootstrap, or your custom styling framework
 
 ## UI
-<img width="500" height="800" alt="1" src="https://github.com/user-attachments/assets/fa208b4a-cda3-4db2-b528-9abecf2454c5" />
-<img width="500" height="400" alt="2" src="https://github.com/user-attachments/assets/ff275bed-a260-4d8b-8310-dcc985d3c56b" />
+<img width="1920" height="800" alt="1" src="https://github.com/user-attachments/assets/fa208b4a-cda3-4db2-b528-9abecf2454c5" />
+<img width="1920" height="400" alt="2" src="https://github.com/user-attachments/assets/ff275bed-a260-4d8b-8310-dcc985d3c56b" />
 
-<img width="500" height="400" alt="4" src="https://github.com/user-attachments/assets/429c86fa-986a-4f66-b6f1-7790d23b1e25" />
-<img width="500" height="600" alt="3" src="https://github.com/user-attachments/assets/a190a25b-c5e0-4b96-849d-caf273e34cee" />
+<img width="1920" height="400" alt="4" src="https://github.com/user-attachments/assets/429c86fa-986a-4f66-b6f1-7790d23b1e25" />
+<img width="1920" height="600" alt="3" src="https://github.com/user-attachments/assets/a190a25b-c5e0-4b96-849d-caf273e34cee" />
 <img width="1920" height="917" alt="5" src="https://github.com/user-attachments/assets/a311031a-cc22-4c12-bea7-c0aa47b19d1e" />
 
 ## Installation
