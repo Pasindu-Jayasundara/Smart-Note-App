@@ -8,11 +8,10 @@ A modern note-taking app that allows users to create, organize, and manage notes
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript (React or any framework/library you're using)
-- **Backend**: Node.js, Express.js (if applicable)
-- **Database**: MongoDB, PostgreSQL, or Firebase (based on your choice)
-- **Authentication**: JWT (JSON Web Tokens), OAuth (if applicable)
-- **Styling**: Tailwind CSS, Bootstrap, or your custom styling framework
+- **Frontend**: React, JavaScript
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Styling**: Tailwind CSS
 
 ## UI
 <img width="1920" height="800" alt="1" src="https://github.com/user-attachments/assets/fa208b4a-cda3-4db2-b528-9abecf2454c5" />
