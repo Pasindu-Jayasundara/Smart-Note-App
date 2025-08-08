@@ -12,6 +12,7 @@ A modern note-taking app that allows users to create, organize, and manage notes
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Styling**: Tailwind CSS
+- **Routing**: React Router
 
 ## UI
 <img width="1920" height="800" alt="1" src="https://github.com/user-attachments/assets/fa208b4a-cda3-4db2-b528-9abecf2454c5" />
@@ -68,17 +69,15 @@ JWT_SECRET=your_jwt_secret_here
 
 ```bash
 cd frontend
-npm start
+npm run dev
 ```
 
 #### Backend
 
 ```bash
 cd backend
-npm start
+npm run dev
 ```
-
-Visit `http://localhost:3000` in your browser to view the app.
 
 ## Usage
 
@@ -92,9 +91,6 @@ Visit `http://localhost:3000` in your browser to view the app.
 
 To edit a note, click on the note and make your changes. You can also delete a note by clicking the trash icon.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
