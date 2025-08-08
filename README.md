@@ -4,14 +4,7 @@ A modern note-taking app that allows users to create, organize, and manage notes
 
 ## Features
 
-- **Create Notes**: Easily add text notes with rich formatting options.
-- **Organize Notes**: Categorize notes into different groups (e.g., Personal, Work, Ideas).
-- **Search**: Quickly search through notes using keywords or tags.
-- **Dark Mode**: Switch between light and dark themes.
-- **Sync**: Sync your notes across multiple devices (coming soon).
-- **Export**: Export your notes to PDF, TXT, or Markdown formats.
-- **Reminder Notifications**: Set reminders for important notes.
-- **Security**: Lock sensitive notes with a PIN or biometric authentication.
+- **Manage Notes**: create, edit, delete
 
 ## Technologies Used
 
