@@ -86,34 +86,11 @@ Visit `http://localhost:3000` in your browser to view the app.
 
 - Click on the "Add Note" button to create a new note.
 - Enter a title and content for the note.
-- Categorize it, if necessary.
-- Save or add tags to help with future searches.
+- Save.
 
-### 2. Organize Notes
-
-You can create folders or tags to categorize your notes. Simply drag and drop or assign categories from the sidebar.
-
-### 3. Search Notes
-
-Use the search bar to find notes by keywords or tags.
-
-### 4. Edit or Delete Notes
+### 2. Edit or Delete Notes
 
 To edit a note, click on the note and make your changes. You can also delete a note by clicking the trash icon.
-
-### 5. Reminders
-
-Set reminders for important notes to receive notifications at a scheduled time.
-
-## Contributing
-
-Contributions are welcome! If you'd like to help improve this project, please follow these steps:
-
-1. Fork the repository
-2. Create a new branch for your feature or bug fix
-3. Make your changes
-4. Commit your changes and push to your fork
-5. Create a pull request explaining your changes
 
 ## License
 
@@ -126,6 +103,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [MongoDB](https://www.mongodb.com/) for database storage.
 - [Tailwind CSS](https://tailwindcss.com/) for modern, utility-first CSS styling.
 
----
-
-Feel free to update or expand any sections that match your actual project details!
